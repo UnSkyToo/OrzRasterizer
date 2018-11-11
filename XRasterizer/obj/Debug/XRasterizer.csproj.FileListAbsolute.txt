@@ -1,0 +1,11 @@
+E:\Projects\Git\OrzRasterizer\XRasterizer\bin\Debug\XRasterizer.dll
+E:\Projects\Git\OrzRasterizer\XRasterizer\bin\Debug\XRasterizer.pdb
+E:\Projects\Git\OrzRasterizer\XRasterizer\obj\Debug\XRasterizer.csproj.CoreCompileInputs.cache
+E:\Projects\Git\OrzRasterizer\XRasterizer\obj\Debug\XRasterizer.dll
+E:\Projects\Git\OrzRasterizer\XRasterizer\obj\Debug\XRasterizer.pdb
+E:\Projects\Git\OrzRasterizer\XRasterizer\obj\Debug\XRasterizer.csprojAssemblyReference.cache
+E:\Projects\Git\OrzRasterizer\XRasterizer\bin\Debug\System.Numerics.Vectors.dll
+E:\Projects\Git\OrzRasterizer\XRasterizer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\Git\OrzRasterizer\XRasterizer\bin\Debug\System.Numerics.Vectors.xml
+E:\Projects\Git\OrzRasterizer\XRasterizer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projects\Git\OrzRasterizer\XRasterizer\obj\Debug\XRasterizer.csproj.CopyComplete
